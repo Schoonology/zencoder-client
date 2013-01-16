@@ -1,0 +1,21 @@
+{
+  "name": "zencoder-client",
+  "version": "0.1.0",
+  "description": "A simple Zencoder client to manage Jobs with Node-style callbacks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Schoonology/zencoder-client.git"
+  },
+  "author": "Michael Schoonmaker <michael.r.schoonmaker@gmail.com>",
+  "keywords": [
+    "zencoder"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "stepdown": "~0.3.11"
+  }
+}
